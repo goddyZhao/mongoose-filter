@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-filter",
+  "author": "Goddy Zhao <goddy128@gmail.com> (http://goddyzhao.me)",
+  "version": "0.0.1",
+  "description": "A filter for mongoose",
+  "dependencies": {
+    "validator": "*"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goddyZhao/mongoose-filter.git"
+  },
+  "keywords": [
+    "node.js",
+    "mongoose",
+    "filter"
+  ],
+  "license": "MIT"
+}
